@@ -1,0 +1,152 @@
+aktor-der Schauspieler
+artysta-der Künstler
+artysta uliczny-Straßenkünstler
+autor-der Autor
+bajka-das Märchen
+bezczelny-unverschämt
+biblioteka-die Bibliothek
+bogaty kulturowo-kulturreich
+brać-nehmen
+cena wstępu-der Eintrittspreis
+ciekawy-spannend
+czasopismo-die Zeitschrift
+czytelnik-der Leser
+dorosły-der Erwaschene
+dowcipny-witzig
+dramat-das Drama
+drogi-teuer
+drukowany-bedruckt
+działać-wirken
+dzieło-das Werk
+dzieło sztuki-das Kunstwerk
+ekscentryczny-exzentrisch
+film miłosny-der Liebesfilm
+film przygodowy-der Abenteuer
+film rysunkowy-der Zeichentrickfilm
+fotel-der Sessel
+gazeta-die Zeitung
+groteskowy-grotesk
+grubiański-flapsig
+grzbiet książki-der Buchrücken
+gwiazda telewizyjna-der Fernsehstar
+historia miłosna-die Liebesgeschichte
+iluzja-die Illusion
+indyjski-indisch
+jeśli-wenn
+kiczowaty-kitschig
+kino domowe-Heimkino
+kochać-lieben
+kolekcjoner-der Sammler
+komedia-die Komödie
+komiks-der Comic
+kompozytor-der Komponist
+koniec-das Ende
+kopiować-kopieren
+kreda-die Kreide
+kryminał-der Krimi
+krzywy-schief
+książka-das Buch
+księgarnia-die Buchhandlung
+literatura-die Literatur
+malarstwo-die Malerei
+malarz-der Maler
+malować-malen
+melancholijny-melanscholisch
+miłośnik książek-der Bücherfreund
+monotonny-monoton
+mól książkowy-die Leseratte
+na chybił trafił-querbeet
+nadzieja-die Hoffnung
+należeć do-gehören
+namiot-das Zelt
+namiętność-die Leidenschaft
+namiętny-leidenschaftlig
+nawet-sogar
+niezwykły-ungewöntlich
+nudny-lengweilig
+obraz-das Bild
+ochota-die Lust
+odbywać się-stattfinden
+odpoczywać-sich erholen
+odpowiadać-antworten
+okropny-schaurig
+okrutny-grausam
+opera-die Oper
+opowiadanie-die Erzälung
+opowiadać o-handeln von
+osoba mało-czytająca der Wenigleser
+osobisty-persönlich
+ostatni-lezter
+otaczać-umgeben
+otwierać-öffnen
+pachnieć-duften nach
+pamiętnik-das Tagebuch
+perfumy-das Parfum
+piasek-der Sand
+piosenkarz-der Sänger
+pisarz-der Schriftsteller
+piętrzyć się-sich stapeln
+podczas-während
+podobać się-gefallen
+podziwiać-bewundern
+pokolenie-die Generation
+polityk-der Politiker
+poruszający-bewegend
+powieść-der Roman
+poziomo-waagerecht
+prezydent-der Präsident
+projektant mody-der Modedesigner
+prominent-der Promi
+prosto-direkt
+przygotować-zubereiten
+przytulny-gemütlich
+publiczność-das Publikum
+pytanie-die Frage
+robiący wrażenie-beeindruckend
+romantyczny-romanstisch
+rozczulenie-die Rührseligkeit
+rozmawiać przez telefon-telefonieren
+rzeźba-die Skulptur
+rząd regałów-die Regalreihe
+różnorodny-vielfältig
+smutny-traurig
+sprotowiec-der Sportler
+straszny-schrecklich
+stwarzać-erschaffen
+stylowy-stilgerecht
+sufit-die Decke
+szeleścić-rascheln
+sztuka-die Kunst
+tani-billig
+thriller-der Thriller
+tkwić-stecken
+torebka-die Tüte
+towarzysz podróży-der Reisebegleiter
+treść-der Inhalt
+trójwymiarowy-dreidimensional
+tworzyć-schaffen
+tytuł-der Titel
+ulubiona książka-das Lieblingsbuch
+ulubiony-Lieblings
+unikanie-die Vermeidung
+w końcu-zuletzt
+warty przeczytania-lesenwert
+warty zobaczenia-sehenswert
+wczuwać się-sich hineinversetzen
+wesoły-lustig
+wirtuozeria-die Virtuosität
+wspaniały-wunderbar
+wstrząśnięty-erschüttert
+wydobywać-herausbringen
+wyspa-die Insel
+wystawa-die Ausstelung
+wytłoczenie-die Ausstanzung
+zachwycać-begeistern
+zadumany-nachdenklich
+zamawiać-bestellen
+zapraszać-einladen
+zaraźliwy-ansteckend
+ziemia-der Boden
+znany-bekannt
+znany na świecie-weltbekannt
+zły-schlecht
